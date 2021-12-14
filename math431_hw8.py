@@ -1,4 +1,5 @@
 # A program to help solve Ch 17, problem number 5: finding zeros of polynomial rings.
+# Code is not highly automated, but does the job
 
 def modular(value, modulus):
     value = value % modulus
